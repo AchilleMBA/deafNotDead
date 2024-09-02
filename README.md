@@ -4,3 +4,7 @@
 
 This project aims to develop an  software application that leverages speech-to-text technology to translate spoken language into sign language(ASL)
 ![aslcover](https://github.com/user-attachments/assets/d2283f22-e8c4-4ee9-8202-0f9db4cc9c64)
+
+Librairies:
+SpeechRecognition
+![Capture d’écran 2024-09-02 à 09 26 39](https://github.com/user-attachments/assets/c9567cbd-6c3e-4fbb-a81c-1785fb994f9a)
