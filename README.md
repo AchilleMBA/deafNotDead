@@ -18,7 +18,7 @@ STEPS:
 
 Step 1: Pronounce the greeting phrase using speech recognition.
 
-Step 2: The text appears on the screen.
+Step 2: The text appears on the terminal.
 
 Step 3: The text is directly translated into ASL (American Sign Language).
 
