@@ -29,3 +29,7 @@ pyAudio: necessary to capture audio directly from your microphone.
 
 
 ![Capture d’écran 2024-09-03 à 08 22 27](https://github.com/user-attachments/assets/5d17e178-185a-44ff-8924-d5ab9d793463)
+
+pytest: for testing functions
+
+![Capture d’écran 2024-09-03 à 09 22 36](https://github.com/user-attachments/assets/f0f19237-c157-46af-82fa-fbf372e6ff47)
