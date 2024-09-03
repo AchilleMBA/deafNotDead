@@ -7,7 +7,9 @@ This project aims to develop an  software application that leverages speech-to-t
 In this project we're going to test a specific greeting sentence 👇🏿
 -------------------------------------------------------------------
 "Hello my name is (your name)"
+
 "i am from (your country), actually i am a student"
+
 "Welcome to CS50"
 
 ![aslcover](https://github.com/user-attachments/assets/d2283f22-e8c4-4ee9-8202-0f9db4cc9c64)
