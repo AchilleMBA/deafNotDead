@@ -16,4 +16,4 @@ gtts : for text-to-speech
 pyAudio: necessary to capture audio directly from your microphone.
 
 
-![Capture d’écran 2024-09-02 à 09 35 56](https://github.com/user-attachments/assets/c4b563d1-8119-44e1-94ba-bb5449addc74)
+![Capture d’écran 2024-09-03 à 08 22 27](https://github.com/user-attachments/assets/5d17e178-185a-44ff-8924-d5ab9d793463)
