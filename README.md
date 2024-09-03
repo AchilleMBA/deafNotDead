@@ -22,7 +22,11 @@ Step 2: The text appears on the terminal.
 
 Step 3: The text is directly translated into ASL (American Sign Language).
 
-French Step: Conduct the test a french student ◊; the greeting phrase will be translated into French Sign Language (LSF), and a video related to French culture and people is launched.
+French Step: Conduct the test like a french student 🇫🇷; the greeting phrase will be translated into French Sign Language (LSF), and a video related to French culture and people is launched.
+
+Cameroon Step: Conduct the test like a Cameroon student 🇨🇲; the greeting phrase will be translated into French Sign Language (LSF), and a cameroon scene from  LA CASA DE PAPEL is launched.
+
+American Step: Conduct the test like a American student 🇺🇸; the greeting phrase will be translated in ASL , and a scene Wednesday is launched.
 
 
 ![aslcover](https://github.com/user-attachments/assets/d2283f22-e8c4-4ee9-8202-0f9db4cc9c64)
