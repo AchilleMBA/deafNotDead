@@ -8,7 +8,8 @@ This project aims to develop an  software application that leverages speech-to-t
 Librairies:
 SpeechRecognition: for speech-to-text
 
-![Capture d’écran 2024-09-02 à 09 26 39](https://github.com/user-attachments/assets/c9567cbd-6c3e-4fbb-a81c-1785fb994f9a)
+![Capture d’écran 2024-09-03 à 08 22 27](https://github.com/user-attachments/assets/5d17e178-185a-44ff-8924-d5ab9d793463)
+
 
 gtts : for text-to-speech 
 
