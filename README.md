@@ -8,10 +8,13 @@ This project aims to develop an  software application that leverages speech-to-t
 Librairies:
 SpeechRecognition: for speech-to-text
 
-![Capture d’écran 2024-09-03 à 08 22 27](https://github.com/user-attachments/assets/5d17e178-185a-44ff-8924-d5ab9d793463)
+![Capture d’écran 2024-09-02 à 09 26 39](https://github.com/user-attachments/assets/cfbd0a79-ab86-4a0f-9ac5-a99561c67a8a)
 
 
 gtts : for text-to-speech 
+
+![Capture d’écran 2024-09-03 à 08 26 31](https://github.com/user-attachments/assets/cc2f27a4-ea20-4a85-9edb-07cd09285e26)
+
 
 pyAudio: necessary to capture audio directly from your microphone.
 
