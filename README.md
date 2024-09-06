@@ -1,17 +1,30 @@
 # 🤟🏽DeafNotDead
 
-![Capture d’écran 2024-02-22 à 09 20 19](https://github.com/user-attachments/assets/85d86f53-c233-46d3-8545-f61d22bf4bc6)
+![Capture d’écran 2024-02-22 à 09 20 19](https://github.com/user-attachments/assets/85d86f53-c233-46d3-8545-f61d22bf4bc6)  
+
 ------------------------------------------------
 
 This project aims to develop an  software application that leverages speech-to-text technology to translate spoken language into sign language(ASL)
 
-In this project we're going to test a specific greeting sentence 👇🏿
+PROJECT STRUCTURE :
+-------------------
+
+project.py
+
+test_project.py
+
+requirements.txt
+
+README.md
+
+
+IN THIS PROJECT WE'RE GOING TO TEST A SPECIFIC GREETING SENTENCE BELOW 👇🏿
 -------------------------------------------------------------------
-"Hello guys ! my name is (your name)"
+                      "Hello guys ! my name is (your name)"
 
-"i am from (your country), actually i am a student"
+                "i am from (your country), actually i am a student"
 
-"Welcome to CS50"
+                                  "Welcome to CS50"
 
 --------------------------------------------------------------------
 
@@ -36,6 +49,13 @@ American Step: Conduct the test like a American student 🇺🇸; the greeting p
 LIBRAIRIES
 -----------
 
+there is a a requirements.txt file that has all the libraries used.
+
+and simply can be install by this pip command:
+
+pip install  requirements.txt
+
+
 SpeechRecognition: for speech-to-text
 
 ![Capture d’écran 2024-09-02 à 09 26 39](https://github.com/user-attachments/assets/cfbd0a79-ab86-4a0f-9ac5-a99561c67a8a)
@@ -54,3 +74,6 @@ opencv-python : in this case useful to launch and read the  videos
 pytest: for testing functions
 
 ![Capture d’écran 2024-09-03 à 09 22 36](https://github.com/user-attachments/assets/f0f19237-c157-46af-82fa-fbf372e6ff47)
+
+
+![Capture d’écran 2024-06-29 à 15 12 28](https://github.com/user-attachments/assets/0e049930-fc9e-427e-9c05-d3b22b199cea)
