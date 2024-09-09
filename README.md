@@ -20,7 +20,7 @@ README.md
 
 IN THIS PROJECT WE'RE GOING TO TEST A SPECIFIC GREETING SENTENCE BELOW 👇🏿
 -------------------------------------------------------------------
-                                    "Hello world"
+                                    "Hello ASL world"
 
                               "i am from (your country), 
 
