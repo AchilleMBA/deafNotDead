@@ -20,9 +20,9 @@ README.md
 
 IN THIS PROJECT WE'RE GOING TO TEST A SPECIFIC GREETING SENTENCE BELOW 👇🏿
 -------------------------------------------------------------------
-                      "Hello guys ! my name is (your name)"
+                                    "Hello world"
 
-                "i am from (your country), actually i am a student"
+                              "i am from (your country), 
 
                                   "Welcome to CS50"
 
