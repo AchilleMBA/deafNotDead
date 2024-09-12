@@ -22,9 +22,11 @@ IN THIS PROJECT WE'RE GOING TO TEST A SPECIFIC GREETING SENTENCE BELOW 👇🏿
 -------------------------------------------------------------------
                                     "Hello ASL world"
 
-                              "i am from (your country), 
+                              "i am from (your country)," 
 
-                                  "Welcome to CS50"
+                                   " nice to meet you"
+
+                                    "Welcome to CS50"
 
 --------------------------------------------------------------------
 
