@@ -69,7 +69,7 @@ STEPS
 
 ### Step 2: follow the instruction, said the greeting template sentence
 
-### step3 3: Enjoy the asl video if your words == greeting template.
+### Step 3: Enjoy the asl video if your words == greeting template.
 
  🇺🇸the greeting phrase will be translated in ASL , and scene from Wednesday is launched.
 
