@@ -41,9 +41,11 @@ test_project.py
 
 book.txt
 
-rgreetingTemplate.txt
+greetingTemplate.txt
 
 requirements.txt
+
+VIDEO
 
 README.md
 
